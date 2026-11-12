@@ -1,0 +1,15 @@
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\task9_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\task9_1.AssemblyInfoInputs.cache
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\task9_1.AssemblyInfo.cs
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\task9_1.csproj.CoreCompileInputs.cache
+C:\Users\Anton\Desktop\lab\task9_1\bin\Debug\net10.0\task9_1.exe
+C:\Users\Anton\Desktop\lab\task9_1\bin\Debug\net10.0\task9_1.deps.json
+C:\Users\Anton\Desktop\lab\task9_1\bin\Debug\net10.0\task9_1.runtimeconfig.json
+C:\Users\Anton\Desktop\lab\task9_1\bin\Debug\net10.0\task9_1.dll
+C:\Users\Anton\Desktop\lab\task9_1\bin\Debug\net10.0\task9_1.pdb
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\task9_1.dll
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\refint\task9_1.dll
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\task9_1.pdb
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\task9_1.genruntimeconfig.cache
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\ref\task9_1.dll
+C:\Users\Anton\Desktop\lab\task9_1\obj\Debug\net10.0\task9_1.csproj.Up2Date

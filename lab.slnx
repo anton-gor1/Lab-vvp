@@ -1,0 +1,29 @@
+<Solution>
+  <Folder Name="/lab1/">
+    <Project Path="task3_2/task3_2.csproj" />
+    <Project Path="task4_16/task4_16.csproj" />
+  </Folder>
+  <Folder Name="/lab2/">
+    <Project Path="lab6_7/task6_7.csproj" />
+    <Project Path="task5_14/task5_14.csproj" />
+  </Folder>
+  <Folder Name="/lab3/">
+    <Project Path="task7_9/task7_9.csproj" />
+    <Project Path="task8_14/task8_14.csproj" />
+  </Folder>
+  <Folder Name="/lab4_var20/">
+    <Project Path="task10_15/task10_15.csproj" />
+    <Project Path="task11_1/task11_1.csproj" />
+    <Project Path="task9_1/task9_1.csproj" />
+  </Folder>
+  <Folder Name="/lab5_var4/">
+    <Project Path="WinFormsApp1/lab5.csproj" />
+  </Folder>
+  <Folder Name="/lab6/">
+    <Project Path="lab6/lab6.csproj" Id="168f3a58-cf5a-4855-86be-3333d7c941f0" />
+  </Folder>
+  <Folder Name="/lab7/">
+    <Project Path="task16_5a/task16_5a.csproj" Id="dd020029-9d8d-4805-84b4-866aec91a463" />
+    <Project Path="task18_4/task18_4.csproj" Id="0278850e-17cb-4ff0-9a88-64e100e05454" />
+  </Folder>
+</Solution>
